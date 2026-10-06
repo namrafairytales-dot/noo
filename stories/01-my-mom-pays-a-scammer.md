@@ -32,3 +32,33 @@ the calls stop.
 - Short pause after "he coughed."
 - Short pause after "Sender: my brother."
 - Longest pause before "the calls stop."
+
+---
+
+# Roman Urdu: Meri Ammi Har Mahine Ek Scammer Ko Paise Deti Hain
+
+```
+Meri Ammi har mahine ek scammer ko 30 hazaar deti hain.
+Aur unhein pata hai ke woh scam hai.
+Wohi banda. Wohi bekaar si nakli awaaz. Pooray do saal se.
+"Madam, main bank se bol raha hoon. Aap ka account hack ho gaya hai."
+Aur Ammi… chup chaap paise bhej deti hain.
+Pichle mahine maine phone cheen liya. Aaj isay achi tarah sunani thi.
+Lekin mere kuch bolne se pehle hi, usne halka sa khaansa.
+Wohi khaansi… jo mera bhai har jhoot se pehle karta hai.
+Mera bhai teen saal se Ammi se baat nahi karta.
+Us ladai ke baad se.
+Maine Ammi ki taraf dekha. Woh zara bhi hairan nahi thin.
+Unhon ne phone wapas liya aur boleen, "Ji sir, abhi bhejti hoon."
+Call kati to boleen, "Khabardar jo usay bataya."
+"Bas isi bahane uski awaaz sun leti hoon."
+Maine unka bank app khola. Woh kabhi nahi kholtin.
+Unka ek rupaya bhi nahi gaya.
+Har call ke agle din subah… 30 hazaar wapas aa jate hain.
+Bhejne wala: mera bhai.
+Dono drama kar rahe hain…
+sirf ek doosre ki awaaz sunne ke liye.
+Aur mere munh se ye baat kabhi nahi niklegi.
+Kyunki jis din kisi ek ko bhi pata chal gaya…
+woh phone aana band ho jayega.
+```
