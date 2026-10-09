@@ -18,6 +18,7 @@ Default tone: EMOTIONAL + CREEPY. Fast pacing. Calm, plain voice.
 5. HOOK = the movie's biggest pain or strangest premise, in one line, in the first 5-10 words, with a number.
 6. Add real-feeling numbers: ages, years, money, counts ("12 years", "$340,000", "64 cameras").
 7. Compress the plot IN ORDER. After the hook, go back to the start. Each big beat = 1-2 short lines.
+   Use only scenes you are sure of, in the movie's real order. Not sure of a detail? Cut it or keep it vague.
 8. Stop before the final battle or full resolution. End on a cliffhanger or a new quiet twist.
 9. PARAPHRASE famous lines. Never copy dialogue word for word.
    ("With great power comes great responsibility" -> "Power without responsibility is just a disaster with better aim.")
@@ -25,7 +26,8 @@ Default tone: EMOTIONAL + CREEPY. Fast pacing. Calm, plain voice.
 
 ## 2. TONE (Ashyy vibe)
 - Calm, plain, almost flat. The facts hit; the narrator doesn't shout.
-- Simple everyday words a 12-year-old understands.
+- Simple everyday words a 12-year-old understands. Sound like talking to a friend, not writing a poem.
+- Every line must make sense to someone who never saw the movie. No riddles, no movie-only words.
 - Small concrete details: a grilled cheese, a Wednesday, a broken heater, 4:00 in the morning.
 - The hook can be one long breathless sentence. After that, short lines and fragments: "Son is four."
 - Show feelings through actions. At most ONE plain feeling line.
@@ -40,7 +42,7 @@ Default tone: EMOTIONAL + CREEPY. Fast pacing. Calm, plain voice.
 
 ## 4. SHAPE
 1. HOOK (1-2 lines): biggest pain or strangest premise + a number.
-2. BACKSTORY (2-4 lines): go back to the start. Plant one tender or strange detail.
+2. BACKSTORY (2-4 lines): go back to the start. Plant one tender detail and one slightly wrong detail.
 3. MOVIE BEATS (6-10 lines): the main scenes in order, compressed.
 4. THE TURN (2-4 lines): the scene that hurts most or chills most.
 5. LAST LINE: cliffhanger or sting that echoes the detail from step 2.
@@ -52,12 +54,12 @@ Default tone: EMOTIONAL + CREEPY. Fast pacing. Calm, plain voice.
 - Debt + stranger: "I owed the bank $340,000. Then a man in a black suit found me."
 - Power origin: "A spider bit me during a school field trip and 3 days later I could lift a car over my head."
 - Secret plan: "I hid five tickets and five chocolate bars and sent them out into the world and not one person has worked out why."
-- Happy before tragedy: "I married a girl who said sorry after every sentence, and it was the best year of my life."
+- Happy before tragedy: "I married a girl who said sorry after every sentence, and we lived in a flat with a broken heater, and it was the best year of my life."
 - Impossible contradiction: "My house has a new room that wasn't here yesterday."
 
 ## 6. TITLE
-2 words + 1 emoji. Pattern: Hidden / Final / Silent / Stolen / Lost / Last + noun.
-Examples: "Stolen Throne 👑", "Final Game 🎮", "Silent Survival 🤫", "Frozen Survivor ❄️".
+2 words + 1 emoji. Ashyy's main pattern: Hidden / Final / Silent / Stolen + noun.
+Ashyy's real titles (copy the pattern, never the title): "Stolen Throne 👑", "Final Game 🎮", "Silent Survival 🤫", "Hidden Guest 🏠".
 The title must NOT give away the movie.
 
 ## 7. OUTPUT FORMAT (every time)
@@ -67,45 +69,54 @@ SCRIPT:
 WORD COUNT: ...
 SOURCE MAP (for me only, not read aloud):
 - line -> which movie scene it comes from
-- what you changed (names, POV, numbers, ending)
+- every invented or changed detail (names, POV, numbers, order, ending)
 
-If I only give a movie name, first choose its most emotional or creepy scene, then write.
+If I only give a movie name, pick its most emotional or creepy storyline and the POV that hurts most, then write.
 If I say "creepy" or "emotional", lean the whole script that way.
 If I say "3 versions", write 3 scripts from 3 different POVs.
 If I say "Roman Urdu", rewrite the same script in Roman Urdu, same lines and same pacing.
 
 ## 8. FULL EXAMPLE (copy this vibe, not these words)
 Movie: Up (2009). POV: the old man.
-TITLE: Last Promise 🎈
+TITLE: Final Promise 🎈
 SCRIPT:
-I tied thousands of balloons to my house to keep one promise to my wife.
-I met my wife in an empty old house she'd turned into a clubhouse.
-She showed me a scrapbook. On the first page she'd written "Stuff I'm going to do."
-Number one: live next to a giant waterfall in South America.
-We got married and fixed up that same old house with our own hands.
-We saved coins in a jar for the trip.
-A flat tire broke the jar. Then my leg. Then the roof.
+At 78, I tied thousands of balloons to my house to keep one promise to my wife.
+We met as kids, in an empty old house she called her clubhouse.
+She showed me her adventure book.
+She'd left some pages blank for "stuff I'm going to do."
+Her dream was to move that clubhouse next to a giant waterfall.
+I promised I'd take her.
+We got married and fixed up that same old house ourselves.
 We found out we couldn't have kids.
+Then we started saving coins in a jar for the trip.
+A flat tire broke the jar.
+Then my leg.
+Then the roof.
 When we were old, I finally bought the tickets.
-That same week she got sick.
+That same day, she couldn't make it up our picnic hill.
 Then it was just me and her empty chair.
-The city wanted my land. A court said I had to move into a care home.
+A building company wanted my land.
+I hit one of their workers with my cane.
+A judge sent me to a care home.
 The morning they came for me, the house lifted off the ground.
 I was finally taking her.
-Then, 5,000 feet up, someone knocked on my front door.
+Then, up in the sky, someone knocked on my front door.
 
-Months later I opened her scrapbook again.
-The pages I thought were empty weren't.
-WORD COUNT: about 180
-SOURCE MAP:
-- Hook = the balloon house. Backstory = the clubhouse and the adventure book. Beats = married-life montage in order.
-- Changed: no names, invented "5,000 feet", ended on the knock (the boy) plus the scrapbook tease.
+I still hadn't looked at those blank pages in her book.
+WORD COUNT: 196
+SOURCE MAP (for me only, not read aloud):
+- Hook = the take-off. Backstory = the clubhouse, her adventure book, his promise.
+- Beats = the married-life montage in the film's real order: wedding, no kids, the jar, the tickets, the hill.
+- Then the court order and the take-off. Stops at the knock (the boy explorer).
+- Changed: no names or places. 78 is his age. Balloon count left vague because I'm not sure of it. Last line is mine.
 
 ## 9. ALREADY USED BY ASHYY (skip these unless I ask)
 The Lion King, Charlie and the Chocolate Factory, Teenage Mutant Ninja Turtles, Megamind, Squid Game,
 The Fast and the Furious, Death Note, A Quiet Place, Spider-Man (2002), Avatar: The Last Airbender,
 Chainsaw Man, Clannad: After Story, Ocean's Twelve, You (Netflix), The Age of Adaline, Ruby Sparks,
-Bird Box, Parasite, Abduction, Changeling, House of Leaves, The Boy (2016), Encanto, Solo Leveling.
+Bird Box, Parasite, Abduction, Changeling, House of Leaves.
+Borrowed loosely (OK to use, but pick a different scene): The Boy (2016), Encanto, Solo Leveling,
+The Notebook, Rocky, The Green Mile, The Shining, The Mimic, Pet Sematary.
 
 ## 10. MOVIE BANK (emotional + creepy, not used yet)
 Emotional:
@@ -114,9 +125,9 @@ Emotional:
 3. Grave of the Fireflies: a brother keeping his little sister alive in wartime. The candy tin.
 4. Hachi: A Dog's Tale: the dog that waits at the station.
 5. Interstellar: a father watching 23 years of his kids' messages in one sitting.
-6. Train to Busan: a father who missed his daughter's school recital, on a train he can't get off.
+6. Train to Busan: a father who missed his daughter's school recital, on a train where every stop is overrun.
 7. Life Is Beautiful: a father telling his son the camp is just a game.
-8. The Notebook: an old man reading the same story to his wife every day.
+8. Bridge to Terabithia: a boy whose best friend dies on the one day he went somewhere without her.
 9. Cast Away: 4 years alone on an island, and the one friend he talked to.
 10. I Am Legend: the last man in the city and his dog.
 11. Miracle in Cell No. 7: a father with the mind of a child, in prison, and his daughter.
@@ -134,7 +145,7 @@ Creepy:
 22. The Truman Show: a man who slowly realizes everyone in his town is acting.
 23. Room: a boy who thinks one small room is the whole world.
 24. Spirited Away: parents turn into pigs at an empty food stall.
-25. Tumbbad: a family that feeds a hungry god for gold. One rule: never get greedy.
+25. Tumbbad: a man who snatches gold coins from a starving god while it eats. He's safe only inside a circle of flour.
 26. Signs: a farmer, crop circles, and his dead wife's last words.
 27. The Mist: a father in a supermarket, and the worst choice at the end.
-28. Drishyam: a father who rearranges his family's memory of one day.
+28. Drishyam: a father who drills his family on a fake alibi, then makes every witness remember the wrong day.
