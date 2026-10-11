@@ -27,3 +27,37 @@ We were running for him
 Source: told by one of the 4 magicians. The tarot cards, the apartment, the Paris bank trick, the 3.2 million
 euros, the sponsor's money going to people he refused to pay, and the FBI agent being the secret 5th member
 are all in the film. The last 2 lines are mine.
+
+## GenZ funny version (v2)
+
+TITLE: We robbed a bank in Paris… from VEGAS 💀
+
+```
+4 small-time magicians each got a mystery card.
+I was one of them.
+The cards led us to an empty apartment with a plan inside.
+1 year later, we were headlining in Vegas.
+Live on stage, we "teleported" a guy from the crowd into his own bank vault.
+In Paris.
+Then 3.2 million euros started raining on the crowd.
+The FBI tried to arrest us.
+For what? A magic trick?
+They had to let us go.
+But one agent took it personally.
+At our next show, we took millions from our rich sponsor's bank account.
+And sent it to the people his company refused to pay.
+He watched his own money disappear live on stage.
+Sir, that's just karma with extra steps.
+Every time that agent got close, we vanished.
+Bro was always 1 step behind, like a lagging NPC.
+At our last show, we disappeared for good.
+Then we finally met the guy who sent the cards.
+It was the agent.
+He planned every trick.
+Even the chase.
+The man hunting us? Our boss.
+We thought we were running from him.
+We were running for him.
+```
+
+My jokes (not in the film): "For what? A magic trick?", "karma with extra steps", "lagging NPC", the last 2 lines.
