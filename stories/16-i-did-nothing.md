@@ -7,7 +7,7 @@ No violence.
 ```
 My group partner stole my science project, put only his name on it, and entered it in the science fair.
 I'd worked on it for 2 weeks.
-He worked on it for 2 seconds, just long enough to change the name.
+He worked on it for 2 seconds, long enough to change the name.
 "Bro, that's my project."
 He shrugged. "Prove it. I submitted it first."
 "Because you used my laptop while I was at lunch."
