@@ -23,7 +23,6 @@ She read, "Parents have been calling about her all week."
 Her face went red as a tomato.
 Bzzz.
 "Also, tell her she's parked in my spot again."
-She looked around. "Whose spot?"
 Bzzz.
 She read the last one slowly. "This is the principal. My office. Now."
 Then the next line. "And give my son his phone back."
