@@ -38,7 +38,7 @@ I said, "I'm fine. I'm the one who ordered it."
 TITLE: Usne meri pizza khayi aur bola MICROWAVE kar do?! 💀
 
 ```
-Maine apni special pizza lene ke liye darwaza khola, to mera parosi meri seedhiyon pe baith ke use kha raha tha
+Maine apni extra-special pizza lene ke liye darwaza khola, to mera parosi meri seedhiyon pe baith ke use kha raha tha
 Usne kaha, "Acha hua tum ghar pe ho. Thandi ho gayi hai. Zara microwave kar do?"
 "Bro, woh meri pizza hai"
 "Zameen pe padi thi. Zameen ka khana free hota hai"
