@@ -6,7 +6,7 @@ in line 2 (the red sneakers). No violence.
 
 ```
 I was bored, so I put on the school mascot costume, and people started telling the bear their secrets.
-The suit was too short, so my bright red sneakers stuck out the bottom.
+The suit was too short, so my red sneakers stuck out.
 First came my crush.
 "Can I tell you something, bear? I like a boy in my class."
 My heart was going crazy inside that suit.
@@ -16,7 +16,7 @@ So she likes my best friend. Great.
 Then my best friend walked up.
 "Bear, I copy my best friend's homework every day, and I still get better grades than him."
 I growled so loud he ran.
-Then my teacher sat down next to me with her coffee.
+Then my teacher sat down with her coffee.
 "Between us, bear, I lost one kid's test, so I just gave him an A."
 "Which kid?"
 "The weird one who's always sleeping."
@@ -25,10 +25,8 @@ Then my little brother showed up.
 "Bear, I broke my brother's PlayStation and blamed it on the dog."
 We don't even have a dog.
 "So now I'm begging Mom to buy one."
-Bro is inventing a dog to save himself.
 That's when the real mascot walked in.
 "Bro, why are you wearing my suit?"
-Everyone turned and stared.
 I took off the bear head.
 My best friend went pale. My teacher spilled her coffee. My little brother ran for his life.
 But my crush just laughed.
@@ -54,7 +52,7 @@ Matlab use mera best friend pasand hai. Wah
 Phir mera best friend aaya
 "Bhaloo, main roz apne best friend ka homework copy karta hoon, aur phir bhi mere number us se zyada aate hain"
 Main itni zor se garja ki woh bhaag gaya
-Phir meri teacher coffee le ke mere paas baith gayi
+Phir meri teacher coffee le ke baith gayi
 "Hum dono ke beech ki baat hai, bhaloo, maine ek bache ka test kho diya, to use seedha A de diya"
 "Kis bache ka?"
 "Woh ajeeb wala jo hamesha sota rehta hai"
@@ -63,10 +61,8 @@ Phir mera chhota bhai aaya
 "Bhaloo, maine bhai ka PlayStation tod diya aur kutte pe ilzaam laga diya"
 Hamare paas to kutta hai hi nahi
 "Isliye ab main ammi se kutta khareedne ki minnatein kar raha hoon"
-Bro apne aap ko bachane ke liye kutta invent kar raha hai
 Tabhi asli mascot andar aaya
 "Bro, tum mera suit kyun pehne hue ho?"
-Sab mud ke mujhe ghoorne lage
 Maine bhaloo ka sar utaara
 Best friend ka rang ud gaya. Teacher ki coffee gir gayi. Chhota bhai jaan bacha ke bhaaga
 Lekin meri crush bas hans padi
