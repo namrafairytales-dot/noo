@@ -1,0 +1,3887 @@
+[
+{
+"w": "my",
+"start": 0.0,
+"end": 0.2,
+"conf": 0.67,
+"raw": "my"
+},
+{
+"w": "world",
+"start": 0.2,
+"end": 0.47,
+"conf": 0.8,
+"raw": "world"
+},
+{
+"w": "is",
+"start": 0.47,
+"end": 0.67,
+"conf": 0.64,
+"raw": "is"
+},
+{
+"w": "the",
+"start": 0.67,
+"end": 0.77,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "year",
+"start": 0.77,
+"end": 1.0,
+"conf": 0.79,
+"raw": "year"
+},
+{
+"w": "3,000",
+"start": 1.0,
+"end": 1.77,
+"conf": 0.82,
+"raw": "3,000"
+},
+{
+"w": "where",
+"start": 1.77,
+"end": 1.83,
+"conf": 0.78,
+"raw": "where"
+},
+{
+"w": "you",
+"start": 1.83,
+"end": 1.97,
+"conf": 0.67,
+"raw": "you"
+},
+{
+"w": "can",
+"start": 1.97,
+"end": 2.1,
+"conf": 0.75,
+"raw": "can"
+},
+{
+"w": "download",
+"start": 2.1,
+"end": 2.43,
+"conf": 0.77,
+"raw": "peoumop"
+},
+{
+"w": "any",
+"start": 2.43,
+"end": 2.73,
+"conf": 0.7,
+"raw": "any"
+},
+{
+"w": "skill",
+"start": 2.73,
+"end": 3.03,
+"conf": 0.7,
+"raw": "skill"
+},
+{
+"w": "10",
+"start": 3.23,
+"end": 3.53,
+"conf": 0.67,
+"raw": "10"
+},
+{
+"w": "seconds",
+"start": 3.53,
+"end": 3.93,
+"conf": 0.86,
+"raw": "seconds"
+},
+{
+"w": "piano",
+"start": 3.93,
+"end": 4.57,
+"conf": 0.83,
+"raw": "piano"
+},
+{
+"w": "karate",
+"start": 4.57,
+"end": 5.1,
+"conf": 0.85,
+"raw": "karate"
+},
+{
+"w": "brain",
+"start": 5.1,
+"end": 5.5,
+"conf": 0.83,
+"raw": "brain"
+},
+{
+"w": "surgery",
+"start": 5.5,
+"end": 6.03,
+"conf": 0.87,
+"raw": "surgery"
+},
+{
+"w": "flying",
+"start": 6.03,
+"end": 6.33,
+"conf": 0.84,
+"raw": "flying"
+},
+{
+"w": "jet",
+"start": 6.43,
+"end": 6.73,
+"conf": 0.74,
+"raw": "jet"
+},
+{
+"w": "and",
+"start": 6.73,
+"end": 6.9,
+"conf": 0.63,
+"raw": "and"
+},
+{
+"w": "I'm",
+"start": 6.9,
+"end": 7.0,
+"conf": 0.63,
+"raw": "I'm"
+},
+{
+"w": "the",
+"start": 7.0,
+"end": 7.1,
+"conf": 0.66,
+"raw": "the"
+},
+{
+"w": "only",
+"start": 7.1,
+"end": 7.4,
+"conf": 0.8,
+"raw": "only"
+},
+{
+"w": "kid",
+"start": 7.4,
+"end": 7.57,
+"conf": 0.75,
+"raw": "kid"
+},
+{
+"w": "in",
+"start": 7.57,
+"end": 7.63,
+"conf": 0.57,
+"raw": "in"
+},
+{
+"w": "my",
+"start": 7.63,
+"end": 7.87,
+"conf": 0.67,
+"raw": "my"
+},
+{
+"w": "school",
+"start": 7.87,
+"end": 8.1,
+"conf": 0.79,
+"raw": "school"
+},
+{
+"w": "who's",
+"start": 8.1,
+"end": 8.3,
+"conf": 0.77,
+"raw": "who's"
+},
+{
+"w": "never",
+"start": 8.3,
+"end": 8.63,
+"conf": 0.83,
+"raw": "never"
+},
+{
+"w": "single",
+"start": 9.23,
+"end": 9.6,
+"conf": 0.83,
+"raw": "single"
+},
+{
+"w": "one",
+"start": 9.6,
+"end": 9.83,
+"conf": 0.7,
+"raw": "one"
+},
+{
+"w": "you",
+"start": 9.83,
+"end": 9.97,
+"conf": 0.75,
+"raw": "you"
+},
+{
+"w": "see",
+"start": 9.97,
+"end": 10.13,
+"conf": 0.67,
+"raw": "see"
+},
+{
+"w": "everyone",
+"start": 10.13,
+"end": 10.43,
+"conf": 0.85,
+"raw": "everyone"
+},
+{
+"w": "has",
+"start": 10.43,
+"end": 10.57,
+"conf": 0.75,
+"raw": "has"
+},
+{
+"w": "tiny",
+"start": 10.63,
+"end": 11.0,
+"conf": 0.8,
+"raw": "tiny"
+},
+{
+"w": "chip",
+"start": 11.0,
+"end": 11.2,
+"conf": 0.8,
+"raw": "chip"
+},
+{
+"w": "behind",
+"start": 11.2,
+"end": 11.5,
+"conf": 0.8,
+"raw": "behind"
+},
+{
+"w": "their",
+"start": 11.5,
+"end": 11.6,
+"conf": 0.8,
+"raw": "their"
+},
+{
+"w": "ear",
+"start": 11.6,
+"end": 11.87,
+"conf": 0.7,
+"raw": "ear"
+},
+{
+"w": "it's",
+"start": 11.87,
+"end": 12.0,
+"conf": 0.8,
+"raw": "it's"
+},
+{
+"w": "called",
+"start": 12.0,
+"end": 12.13,
+"conf": 0.74,
+"raw": "called"
+},
+{
+"w": "spark",
+"start": 12.27,
+"end": 12.7,
+"conf": 0.72,
+"raw": "spark"
+},
+{
+"w": "walk",
+"start": 12.7,
+"end": 13.0,
+"conf": 0.73,
+"raw": "walk"
+},
+{
+"w": "into",
+"start": 13.0,
+"end": 13.13,
+"conf": 0.74,
+"raw": "into"
+},
+{
+"w": "skill",
+"start": 13.23,
+"end": 13.43,
+"conf": 0.75,
+"raw": "skill"
+},
+{
+"w": "stream",
+"start": 13.43,
+"end": 13.67,
+"conf": 0.76,
+"raw": "stream"
+},
+{
+"w": "store",
+"start": 13.67,
+"end": 14.0,
+"conf": 0.83,
+"raw": "store"
+},
+{
+"w": "pick",
+"start": 14.0,
+"end": 14.13,
+"conf": 0.79,
+"raw": "pick"
+},
+{
+"w": "skill",
+"start": 14.2,
+"end": 14.4,
+"conf": 0.8,
+"raw": "skill"
+},
+{
+"w": "off",
+"start": 14.4,
+"end": 14.57,
+"conf": 0.74,
+"raw": "off"
+},
+{
+"w": "the",
+"start": 14.57,
+"end": 14.67,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "screen",
+"start": 14.67,
+"end": 15.03,
+"conf": 0.85,
+"raw": "screen"
+},
+{
+"w": "and",
+"start": 15.03,
+"end": 15.17,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "press",
+"start": 15.17,
+"end": 15.33,
+"conf": 0.73,
+"raw": "press"
+},
+{
+"w": "button",
+"start": 15.4,
+"end": 15.73,
+"conf": 0.86,
+"raw": "button"
+},
+{
+"w": "ten",
+"start": 15.73,
+"end": 15.97,
+"conf": 0.7,
+"raw": "ten"
+},
+{
+"w": "later",
+"start": 16.23,
+"end": 16.57,
+"conf": 0.75,
+"raw": "later"
+},
+{
+"w": "you",
+"start": 16.57,
+"end": 16.7,
+"conf": 0.73,
+"raw": "you"
+},
+{
+"w": "know",
+"start": 16.7,
+"end": 16.8,
+"conf": 0.8,
+"raw": "know"
+},
+{
+"w": "it",
+"start": 16.9,
+"end": 16.97,
+"conf": 0.6,
+"raw": "it"
+},
+{
+"w": "like",
+"start": 16.97,
+"end": 17.13,
+"conf": 0.79,
+"raw": "like"
+},
+{
+"w": "you've",
+"start": 17.13,
+"end": 17.23,
+"conf": 0.85,
+"raw": "you've"
+},
+{
+"w": "been",
+"start": 17.23,
+"end": 17.4,
+"conf": 0.8,
+"raw": "been"
+},
+{
+"w": "doing",
+"start": 17.4,
+"end": 17.6,
+"conf": 0.76,
+"raw": "doing"
+},
+{
+"w": "it",
+"start": 17.6,
+"end": 17.73,
+"conf": 0.55,
+"raw": "it"
+},
+{
+"w": "your",
+"start": 17.73,
+"end": 17.9,
+"conf": 0.79,
+"raw": "your"
+},
+{
+"w": "whole",
+"start": 17.9,
+"end": 18.13,
+"conf": 0.81,
+"raw": "whole"
+},
+{
+"w": "life",
+"start": 18.13,
+"end": 18.47,
+"conf": 0.7,
+"raw": "life"
+},
+{
+"w": "$5",
+"start": 18.47,
+"end": 19.03,
+"conf": 0.66,
+"raw": "$5"
+},
+{
+"w": "for",
+"start": 19.03,
+"end": 19.17,
+"conf": 0.65,
+"raw": "for"
+},
+{
+"w": "juggling",
+"start": 19.17,
+"end": 19.5,
+"conf": 0.86,
+"raw": "juggling"
+},
+{
+"w": "$500",
+"start": 19.5,
+"end": 20.43,
+"conf": 0.8,
+"raw": "$500"
+},
+{
+"w": "for",
+"start": 20.43,
+"end": 20.6,
+"conf": 0.75,
+"raw": "for"
+},
+{
+"w": "perfect",
+"start": 20.6,
+"end": 20.93,
+"conf": 0.78,
+"raw": "perfect"
+},
+{
+"w": "Spanish",
+"start": 20.93,
+"end": 21.5,
+"conf": 0.77,
+"raw": "Spanish"
+},
+{
+"w": "$50,000",
+"start": 21.5,
+"end": 22.53,
+"conf": 0.87,
+"raw": "$50,000"
+},
+{
+"w": "to",
+"start": 22.53,
+"end": 22.6,
+"conf": 0.66,
+"raw": "to"
+},
+{
+"w": "be",
+"start": 22.6,
+"end": 22.73,
+"conf": 0.66,
+"raw": "be"
+},
+{
+"w": "world",
+"start": 22.8,
+"end": 23.1,
+"conf": 0.81,
+"raw": "world"
+},
+{
+"w": "class",
+"start": 23.1,
+"end": 23.4,
+"conf": 0.83,
+"raw": "class"
+},
+{
+"w": "kids",
+"start": 23.77,
+"end": 24.0,
+"conf": 0.69,
+"raw": "kids"
+},
+{
+"w": "download",
+"start": 24.0,
+"end": 24.33,
+"conf": 0.89,
+"raw": "download"
+},
+{
+"w": "sports",
+"start": 24.33,
+"end": 24.73,
+"conf": 0.85,
+"raw": "sports"
+},
+{
+"w": "skills",
+"start": 24.73,
+"end": 24.93,
+"conf": 0.82,
+"raw": "skills"
+},
+{
+"w": "the",
+"start": 24.93,
+"end": 25.1,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "morning",
+"start": 25.1,
+"end": 25.3,
+"conf": 0.82,
+"raw": "morning"
+},
+{
+"w": "of",
+"start": 25.3,
+"end": 25.37,
+"conf": 0.64,
+"raw": "of"
+},
+{
+"w": "the",
+"start": 25.37,
+"end": 25.43,
+"conf": 0.66,
+"raw": "the"
+},
+{
+"w": "big",
+"start": 25.43,
+"end": 25.63,
+"conf": 0.7,
+"raw": "619"
+},
+{
+"w": "game",
+"start": 25.63,
+"end": 26.0,
+"conf": 0.8,
+"raw": "game"
+},
+{
+"w": "my",
+"start": 26.0,
+"end": 26.13,
+"conf": 0.66,
+"raw": "my"
+},
+{
+"w": "neighbor",
+"start": 26.13,
+"end": 26.37,
+"conf": 0.81,
+"raw": "neighbor"
+},
+{
+"w": "Master",
+"start": 26.8,
+"end": 27.23,
+"conf": 0.81,
+"raw": "Master"
+},
+{
+"w": "Pilot",
+"start": 27.23,
+"end": 27.6,
+"conf": 0.81,
+"raw": "Pilot"
+},
+{
+"w": "on",
+"start": 27.6,
+"end": 27.73,
+"conf": 0.66,
+"raw": "on"
+},
+{
+"w": "Monday",
+"start": 27.73,
+"end": 28.23,
+"conf": 0.78,
+"raw": "Monday"
+},
+{
+"w": "and",
+"start": 28.23,
+"end": 28.37,
+"conf": 0.66,
+"raw": "and"
+},
+{
+"w": "was",
+"start": 28.37,
+"end": 28.5,
+"conf": 0.73,
+"raw": "was"
+},
+{
+"w": "flying",
+"start": 28.5,
+"end": 28.77,
+"conf": 0.76,
+"raw": "flying"
+},
+{
+"w": "planes",
+"start": 28.77,
+"end": 29.1,
+"conf": 0.8,
+"raw": "planes"
+},
+{
+"w": "on",
+"start": 29.1,
+"end": 29.3,
+"conf": 0.66,
+"raw": "on"
+},
+{
+"w": "tuesday",
+"start": 29.3,
+"end": 29.8,
+"conf": 0.51,
+"raw": "Aepsant"
+},
+{
+"w": "nobody",
+"start": 29.8,
+"end": 29.97,
+"conf": 0.85,
+"raw": "nobody"
+},
+{
+"w": "learns",
+"start": 29.97,
+"end": 30.27,
+"conf": 0.73,
+"raw": "learns"
+},
+{
+"w": "anything",
+"start": 30.27,
+"end": 30.53,
+"conf": 0.88,
+"raw": "anything"
+},
+{
+"w": "anymore",
+"start": 30.53,
+"end": 30.97,
+"conf": 0.87,
+"raw": "anymore"
+},
+{
+"w": "why",
+"start": 30.97,
+"end": 31.17,
+"conf": 0.75,
+"raw": "why"
+},
+{
+"w": "would",
+"start": 31.17,
+"end": 31.33,
+"conf": 0.8,
+"raw": "would"
+},
+{
+"w": "you",
+"start": 31.33,
+"end": 31.57,
+"conf": 0.75,
+"raw": "you"
+},
+{
+"w": "skillstream",
+"start": 31.57,
+"end": 32.1,
+"conf": 0.9,
+"raw": "skillstream"
+},
+{
+"w": "is",
+"start": 32.1,
+"end": 32.2,
+"conf": 0.67,
+"raw": "is"
+},
+{
+"w": "owned",
+"start": 32.2,
+"end": 32.47,
+"conf": 0.83,
+"raw": "owned"
+},
+{
+"w": "one",
+"start": 32.47,
+"end": 32.93,
+"conf": 0.66,
+"raw": "one"
+},
+{
+"w": "man",
+"start": 32.93,
+"end": 33.27,
+"conf": 0.74,
+"raw": "man"
+},
+{
+"w": "Dorian",
+"start": 33.27,
+"end": 33.73,
+"conf": 0.79,
+"raw": "Dorian"
+},
+{
+"w": "Kade",
+"start": 33.73,
+"end": 34.07,
+"conf": 0.79,
+"raw": "Kade"
+},
+{
+"w": "the",
+"start": 34.07,
+"end": 34.23,
+"conf": 0.7,
+"raw": "the"
+},
+{
+"w": "richest",
+"start": 34.23,
+"end": 34.53,
+"conf": 0.85,
+"raw": "richest"
+},
+{
+"w": "man",
+"start": 34.53,
+"end": 34.8,
+"conf": 0.74,
+"raw": "man"
+},
+{
+"w": "who's",
+"start": 34.8,
+"end": 35.0,
+"conf": 0.8,
+"raw": "who's"
+},
+{
+"w": "ever",
+"start": 35.0,
+"end": 35.23,
+"conf": 0.65,
+"raw": "ever"
+},
+{
+"w": "lived",
+"start": 35.23,
+"end": 35.57,
+"conf": 0.83,
+"raw": "lived"
+},
+{
+"w": "his",
+"start": 35.57,
+"end": 35.73,
+"conf": 0.75,
+"raw": "his"
+},
+{
+"w": "face",
+"start": 35.73,
+"end": 35.97,
+"conf": 0.8,
+"raw": "face"
+},
+{
+"w": "is",
+"start": 35.97,
+"end": 36.1,
+"conf": 0.66,
+"raw": "is"
+},
+{
+"w": "on",
+"start": 36.1,
+"end": 36.23,
+"conf": 0.64,
+"raw": "on"
+},
+{
+"w": "every",
+"start": 36.23,
+"end": 36.57,
+"conf": 0.75,
+"raw": "every"
+},
+{
+"w": "billboard",
+"start": 36.57,
+"end": 37.07,
+"conf": 0.87,
+"raw": "billboard"
+},
+{
+"w": "smiling",
+"start": 37.07,
+"end": 37.6,
+"conf": 0.8,
+"raw": "smiling"
+},
+{
+"w": "with",
+"start": 37.6,
+"end": 37.73,
+"conf": 0.66,
+"raw": "with"
+},
+{
+"w": "the",
+"start": 37.73,
+"end": 37.8,
+"conf": 0.71,
+"raw": "the"
+},
+{
+"w": "same",
+"start": 37.8,
+"end": 38.13,
+"conf": 0.76,
+"raw": "same"
+},
+{
+"w": "slogan",
+"start": 38.13,
+"end": 38.57,
+"conf": 0.84,
+"raw": "slogan"
+},
+{
+"w": "why",
+"start": 38.57,
+"end": 38.83,
+"conf": 0.74,
+"raw": "why"
+},
+{
+"w": "learn",
+"start": 38.83,
+"end": 39.23,
+"conf": 0.67,
+"raw": "learn"
+},
+{
+"w": "when",
+"start": 39.23,
+"end": 39.4,
+"conf": 0.8,
+"raw": "when"
+},
+{
+"w": "you",
+"start": 39.4,
+"end": 39.53,
+"conf": 0.75,
+"raw": "you"
+},
+{
+"w": "can",
+"start": 39.53,
+"end": 39.63,
+"conf": 0.74,
+"raw": "can"
+},
+{
+"w": "SKILLSTREAM",
+"start": 39.77,
+"end": 40.1,
+"conf": 0.79,
+"raw": "SKILLSTREAM"
+},
+{
+"w": "my",
+"start": 40.27,
+"end": 40.4,
+"conf": 0.67,
+"raw": "my"
+},
+{
+"w": "family",
+"start": 40.4,
+"end": 40.73,
+"conf": 0.84,
+"raw": "family"
+},
+{
+"w": "never",
+"start": 40.93,
+"end": 41.17,
+"conf": 0.8,
+"raw": "never"
+},
+{
+"w": "afford",
+"start": 41.17,
+"end": 41.4,
+"conf": 0.84,
+"raw": "afford"
+},
+{
+"w": "spark",
+"start": 41.47,
+"end": 41.87,
+"conf": 0.8,
+"raw": "spark"
+},
+{
+"w": "SO",
+"start": 41.87,
+"end": 41.97,
+"conf": 0.58,
+"raw": "SO"
+},
+{
+"w": "my",
+"start": 41.97,
+"end": 42.07,
+"conf": 0.54,
+"raw": "my"
+},
+{
+"w": "grandpa",
+"start": 42.07,
+"end": 42.43,
+"conf": 0.85,
+"raw": "grandpa"
+},
+{
+"w": "taught",
+"start": 42.43,
+"end": 42.63,
+"conf": 0.82,
+"raw": "taught"
+},
+{
+"w": "me",
+"start": 42.63,
+"end": 42.77,
+"conf": 0.65,
+"raw": "me"
+},
+{
+"w": "everything",
+"start": 42.77,
+"end": 43.1,
+"conf": 0.89,
+"raw": "everything"
+},
+{
+"w": "the",
+"start": 43.1,
+"end": 43.3,
+"conf": 0.63,
+"raw": "the"
+},
+{
+"w": "way",
+"start": 43.43,
+"end": 43.67,
+"conf": 0.72,
+"raw": "way"
+},
+{
+"w": "by",
+"start": 43.67,
+"end": 43.83,
+"conf": 0.66,
+"raw": "by"
+},
+{
+"w": "hand",
+"start": 43.83,
+"end": 44.23,
+"conf": 0.75,
+"raw": "hand"
+},
+{
+"w": "how",
+"start": 44.23,
+"end": 44.4,
+"conf": 0.75,
+"raw": "how"
+},
+{
+"w": "fix",
+"start": 44.4,
+"end": 44.6,
+"conf": 0.62,
+"raw": "fix"
+},
+{
+"w": "an",
+"start": 44.6,
+"end": 44.73,
+"conf": 0.67,
+"raw": "an"
+},
+{
+"w": "engine",
+"start": 44.73,
+"end": 45.07,
+"conf": 0.83,
+"raw": "engine"
+},
+{
+"w": "how",
+"start": 45.07,
+"end": 45.17,
+"conf": 0.72,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 45.17,
+"end": 45.23,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "play",
+"start": 45.23,
+"end": 45.43,
+"conf": 0.74,
+"raw": "play"
+},
+{
+"w": "chess",
+"start": 45.43,
+"end": 45.77,
+"conf": 0.81,
+"raw": "chess"
+},
+{
+"w": "how",
+"start": 45.77,
+"end": 45.93,
+"conf": 0.74,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 45.93,
+"end": 46.0,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "pick",
+"start": 46.0,
+"end": 46.13,
+"conf": 0.8,
+"raw": "pick"
+},
+{
+"w": "lock",
+"start": 46.23,
+"end": 46.57,
+"conf": 0.77,
+"raw": "lock"
+},
+{
+"w": "how",
+"start": 46.57,
+"end": 46.7,
+"conf": 0.74,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 46.7,
+"end": 46.8,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "swim",
+"start": 46.8,
+"end": 47.2,
+"conf": 0.8,
+"raw": "swim"
+},
+{
+"w": "took",
+"start": 47.33,
+"end": 47.5,
+"conf": 0.8,
+"raw": "took"
+},
+{
+"w": "me",
+"start": 47.5,
+"end": 47.6,
+"conf": 0.56,
+"raw": "me"
+},
+{
+"w": "years",
+"start": 47.6,
+"end": 48.1,
+"conf": 0.83,
+"raw": "years"
+},
+{
+"w": "kids",
+"start": 48.1,
+"end": 48.3,
+"conf": 0.67,
+"raw": "kids"
+},
+{
+"w": "at",
+"start": 48.3,
+"end": 48.4,
+"conf": 0.66,
+"raw": "at"
+},
+{
+"w": "school",
+"start": 48.4,
+"end": 48.67,
+"conf": 0.85,
+"raw": "school"
+},
+{
+"w": "laughed",
+"start": 48.67,
+"end": 48.97,
+"conf": 0.81,
+"raw": "laughed"
+},
+{
+"w": "at",
+"start": 48.97,
+"end": 49.07,
+"conf": 0.67,
+"raw": "at"
+},
+{
+"w": "me",
+"start": 49.07,
+"end": 49.23,
+"conf": 0.66,
+"raw": "me"
+},
+{
+"w": "but",
+"start": 49.23,
+"end": 49.33,
+"conf": 0.74,
+"raw": "but"
+},
+{
+"w": "knew",
+"start": 49.5,
+"end": 49.7,
+"conf": 0.79,
+"raw": "knew"
+},
+{
+"w": "those",
+"start": 49.7,
+"end": 49.9,
+"conf": 0.83,
+"raw": "those"
+},
+{
+"w": "things",
+"start": 49.9,
+"end": 50.27,
+"conf": 0.84,
+"raw": "things"
+},
+{
+"w": "really",
+"start": 50.27,
+"end": 50.73,
+"conf": 0.76,
+"raw": "really"
+},
+{
+"w": "knew",
+"start": 50.73,
+"end": 50.9,
+"conf": 0.79,
+"raw": "knew"
+},
+{
+"w": "them",
+"start": 50.9,
+"end": 51.1,
+"conf": 0.8,
+"raw": "them"
+},
+{
+"w": "then",
+"start": 51.1,
+"end": 51.23,
+"conf": 0.79,
+"raw": "then"
+},
+{
+"w": "last",
+"start": 51.23,
+"end": 51.5,
+"conf": 0.79,
+"raw": "last"
+},
+{
+"w": "month",
+"start": 51.5,
+"end": 51.77,
+"conf": 0.83,
+"raw": "month"
+},
+{
+"w": "Cade",
+"start": 51.77,
+"end": 52.0,
+"conf": 0.76,
+"raw": ".Cade"
+},
+{
+"w": "S'wentaM HQ",
+"start": 52.0,
+"end": 52.17,
+"conf": 0.65,
+"raw": "S'wentaM HQ"
+},
+{
+"w": "on",
+"start": 52.17,
+"end": 52.3,
+"conf": 0.66,
+"raw": "on"
+},
+{
+"w": "every",
+"start": 52.3,
+"end": 52.7,
+"conf": 0.75,
+"raw": "every"
+},
+{
+"w": "screen",
+"start": 52.7,
+"end": 53.0,
+"conf": 0.85,
+"raw": "screen"
+},
+{
+"w": "in",
+"start": 53.0,
+"end": 53.07,
+"conf": 0.65,
+"raw": "in"
+},
+{
+"w": "the",
+"start": 53.07,
+"end": 53.17,
+"conf": 0.68,
+"raw": "the"
+},
+{
+"w": "world",
+"start": 53.17,
+"end": 53.67,
+"conf": 0.83,
+"raw": "world"
+},
+{
+"w": "tonight",
+"start": 53.67,
+"end": 53.83,
+"conf": 0.86,
+"raw": "tonight"
+},
+{
+"w": "at",
+"start": 53.83,
+"end": 53.93,
+"conf": 0.65,
+"raw": "at"
+},
+{
+"w": "midnight",
+"start": 53.93,
+"end": 54.37,
+"conf": 0.89,
+"raw": "midnight"
+},
+{
+"w": "every",
+"start": 54.37,
+"end": 54.7,
+"conf": 0.78,
+"raw": "every"
+},
+{
+"w": "spark",
+"start": 54.7,
+"end": 54.93,
+"conf": 0.73,
+"raw": "spark"
+},
+{
+"w": "on",
+"start": 54.93,
+"end": 55.13,
+"conf": 0.65,
+"raw": "on"
+},
+{
+"w": "earth",
+"start": 55.13,
+"end": 55.33,
+"conf": 0.76,
+"raw": "earth"
+},
+{
+"w": "gets",
+"start": 55.33,
+"end": 55.5,
+"conf": 0.7,
+"raw": "gets"
+},
+{
+"w": "free",
+"start": 55.6,
+"end": 55.9,
+"conf": 0.73,
+"raw": "free"
+},
+{
+"w": "upgrade",
+"start": 55.9,
+"end": 56.43,
+"conf": 0.87,
+"raw": "upgrade"
+},
+{
+"w": "Skill",
+"start": 56.43,
+"end": 56.77,
+"conf": 0.83,
+"raw": "Skill"
+},
+{
+"w": "Stream",
+"start": 56.77,
+"end": 57.03,
+"conf": 0.85,
+"raw": "Stream"
+},
+{
+"w": "billion",
+"start": 58.1,
+"end": 58.47,
+"conf": 0.82,
+"raw": "billion"
+},
+{
+"w": "people",
+"start": 58.47,
+"end": 58.8,
+"conf": 0.84,
+"raw": "people"
+},
+{
+"w": "cheered",
+"start": 58.8,
+"end": 59.17,
+"conf": 0.75,
+"raw": "cheered"
+},
+{
+"w": "at",
+"start": 59.17,
+"end": 59.3,
+"conf": 0.67,
+"raw": "at"
+},
+{
+"w": "11:59",
+"start": 59.3,
+"end": 60.07,
+"conf": 0.83,
+"raw": "11:59"
+},
+{
+"w": "was",
+"start": 60.2,
+"end": 60.33,
+"conf": 0.74,
+"raw": "was"
+},
+{
+"w": "sitting",
+"start": 60.33,
+"end": 60.53,
+"conf": 0.85,
+"raw": "sitting"
+},
+{
+"w": "in",
+"start": 60.53,
+"end": 60.6,
+"conf": 0.66,
+"raw": "in"
+},
+{
+"w": "my",
+"start": 60.6,
+"end": 60.73,
+"conf": 0.67,
+"raw": "my"
+},
+{
+"w": "kitchen",
+"start": 60.73,
+"end": 61.0,
+"conf": 0.83,
+"raw": "kitchen"
+},
+{
+"w": "with",
+"start": 61.0,
+"end": 61.13,
+"conf": 0.8,
+"raw": "with"
+},
+{
+"w": "my",
+"start": 61.13,
+"end": 61.23,
+"conf": 0.52,
+"raw": "my"
+},
+{
+"w": "mom",
+"start": 61.23,
+"end": 61.6,
+"conf": 0.74,
+"raw": "mom"
+},
+{
+"w": "she'd",
+"start": 61.6,
+"end": 61.8,
+"conf": 0.8,
+"raw": "she'd"
+},
+{
+"w": "saved",
+"start": 61.8,
+"end": 62.07,
+"conf": 0.81,
+"raw": "saved"
+},
+{
+"w": "for",
+"start": 62.07,
+"end": 62.23,
+"conf": 0.73,
+"raw": "for"
+},
+{
+"w": "three",
+"start": 62.23,
+"end": 62.53,
+"conf": 0.79,
+"raw": "three"
+},
+{
+"w": "years",
+"start": 62.53,
+"end": 62.87,
+"conf": 0.83,
+"raw": "years"
+},
+{
+"w": "and",
+"start": 62.87,
+"end": 63.03,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "bought",
+"start": 63.03,
+"end": 63.17,
+"conf": 0.84,
+"raw": "bought"
+},
+{
+"w": "her",
+"start": 63.17,
+"end": 63.33,
+"conf": 0.75,
+"raw": "her"
+},
+{
+"w": "first",
+"start": 63.33,
+"end": 63.63,
+"conf": 0.79,
+"raw": "first"
+},
+{
+"w": "spark",
+"start": 63.63,
+"end": 63.93,
+"conf": 0.81,
+"raw": "spark"
+},
+{
+"w": "the",
+"start": 63.93,
+"end": 64.03,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "week",
+"start": 64.03,
+"end": 64.23,
+"conf": 0.8,
+"raw": "week"
+},
+{
+"w": "before",
+"start": 64.23,
+"end": 64.63,
+"conf": 0.83,
+"raw": "before"
+},
+{
+"w": "just",
+"start": 64.63,
+"end": 64.83,
+"conf": 0.77,
+"raw": "just"
+},
+{
+"w": "one",
+"start": 64.83,
+"end": 65.1,
+"conf": 0.64,
+"raw": "one"
+},
+{
+"w": "skill",
+"start": 65.1,
+"end": 65.37,
+"conf": 0.77,
+"raw": "skill"
+},
+{
+"w": "baking",
+"start": 65.37,
+"end": 65.77,
+"conf": 0.85,
+"raw": "baking"
+},
+{
+"w": "the",
+"start": 65.77,
+"end": 65.9,
+"conf": 0.64,
+"raw": "the"
+},
+{
+"w": "clock",
+"start": 65.9,
+"end": 66.13,
+"conf": 0.79,
+"raw": "clock"
+},
+{
+"w": "hit",
+"start": 66.13,
+"end": 66.3,
+"conf": 0.63,
+"raw": "hit"
+},
+{
+"w": "midnight",
+"start": 66.3,
+"end": 66.67,
+"conf": 0.82,
+"raw": "midnight"
+},
+{
+"w": "and",
+"start": 66.67,
+"end": 66.8,
+"conf": 0.63,
+"raw": "and"
+},
+{
+"w": "my",
+"start": 66.8,
+"end": 66.93,
+"conf": 0.67,
+"raw": "my"
+},
+{
+"w": "mom",
+"start": 66.93,
+"end": 67.17,
+"conf": 0.57,
+"raw": "mom"
+},
+{
+"w": "stopped",
+"start": 67.17,
+"end": 67.43,
+"conf": 0.83,
+"raw": "stopped"
+},
+{
+"w": "moving",
+"start": 67.43,
+"end": 67.73,
+"conf": 0.78,
+"raw": "moving"
+},
+{
+"w": "mid",
+"start": 67.73,
+"end": 67.93,
+"conf": 0.5,
+"raw": "plw"
+},
+{
+"w": "sentence",
+"start": 67.93,
+"end": 68.4,
+"conf": 0.89,
+"raw": "sentence"
+},
+{
+"w": "eyes",
+"start": 68.4,
+"end": 68.67,
+"conf": 0.79,
+"raw": "eyes"
+},
+{
+"w": "open",
+"start": 68.67,
+"end": 68.97,
+"conf": 0.79,
+"raw": "open"
+},
+{
+"w": "frozen",
+"start": 68.97,
+"end": 69.43,
+"conf": 0.79,
+"raw": "frozen"
+},
+{
+"w": "ran",
+"start": 69.57,
+"end": 69.77,
+"conf": 0.75,
+"raw": "ran"
+},
+{
+"w": "outside",
+"start": 69.77,
+"end": 70.23,
+"conf": 0.79,
+"raw": "outside"
+},
+{
+"w": "the",
+"start": 70.23,
+"end": 70.37,
+"conf": 0.65,
+"raw": "the"
+},
+{
+"w": "whole",
+"start": 70.37,
+"end": 70.63,
+"conf": 0.83,
+"raw": "whole"
+},
+{
+"w": "street",
+"start": 70.63,
+"end": 70.87,
+"conf": 0.79,
+"raw": "street"
+},
+{
+"w": "was",
+"start": 70.87,
+"end": 71.0,
+"conf": 0.74,
+"raw": "was"
+},
+{
+"w": "frozen",
+"start": 71.0,
+"end": 71.4,
+"conf": 0.8,
+"raw": "frozen"
+},
+{
+"w": "cars",
+"start": 71.4,
+"end": 71.7,
+"conf": 0.8,
+"raw": "cars"
+},
+{
+"w": "stopped",
+"start": 71.7,
+"end": 72.1,
+"conf": 0.83,
+"raw": "stopped"
+},
+{
+"w": "people",
+"start": 72.1,
+"end": 72.37,
+"conf": 0.84,
+"raw": "people"
+},
+{
+"w": "standing",
+"start": 72.37,
+"end": 72.67,
+"conf": 0.79,
+"raw": "standing"
+},
+{
+"w": "still",
+"start": 72.67,
+"end": 72.93,
+"conf": 0.78,
+"raw": "still"
+},
+{
+"w": "on",
+"start": 72.93,
+"end": 73.0,
+"conf": 0.66,
+"raw": "on"
+},
+{
+"w": "the",
+"start": 73.0,
+"end": 73.07,
+"conf": 0.73,
+"raw": "the"
+},
+{
+"w": "sidewalks",
+"start": 73.07,
+"end": 73.67,
+"conf": 0.9,
+"raw": "sidewalks"
+},
+{
+"w": "then",
+"start": 73.67,
+"end": 73.83,
+"conf": 0.8,
+"raw": "then"
+},
+{
+"w": "every",
+"start": 73.83,
+"end": 74.17,
+"conf": 0.83,
+"raw": "every"
+},
+{
+"w": "single",
+"start": 74.17,
+"end": 74.43,
+"conf": 0.82,
+"raw": "single"
+},
+{
+"w": "one",
+"start": 74.43,
+"end": 74.57,
+"conf": 0.73,
+"raw": "one"
+},
+{
+"w": "of",
+"start": 74.57,
+"end": 74.63,
+"conf": 0.52,
+"raw": "of"
+},
+{
+"w": "them",
+"start": 74.63,
+"end": 74.83,
+"conf": 0.8,
+"raw": "them"
+},
+{
+"w": "their",
+"start": 75.1,
+"end": 75.27,
+"conf": 0.78,
+"raw": "their"
+},
+{
+"w": "head",
+"start": 75.27,
+"end": 75.43,
+"conf": 0.8,
+"raw": "head"
+},
+{
+"w": "at",
+"start": 75.43,
+"end": 75.53,
+"conf": 0.67,
+"raw": "at"
+},
+{
+"w": "the",
+"start": 75.53,
+"end": 75.63,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "same",
+"start": 75.63,
+"end": 75.9,
+"conf": 0.79,
+"raw": "same"
+},
+{
+"w": "time",
+"start": 75.9,
+"end": 76.23,
+"conf": 0.74,
+"raw": "time"
+},
+{
+"w": "and",
+"start": 76.23,
+"end": 76.37,
+"conf": 0.66,
+"raw": "and"
+},
+{
+"w": "they",
+"start": 76.37,
+"end": 76.5,
+"conf": 0.8,
+"raw": "they"
+},
+{
+"w": "all",
+"start": 76.5,
+"end": 76.8,
+"conf": 0.69,
+"raw": "all"
+},
+{
+"w": "started",
+"start": 76.8,
+"end": 77.1,
+"conf": 0.82,
+"raw": "started"
+},
+{
+"w": "walking",
+"start": 77.1,
+"end": 77.6,
+"conf": 0.82,
+"raw": "walking"
+},
+{
+"w": "same",
+"start": 77.6,
+"end": 77.9,
+"conf": 0.76,
+"raw": "same"
+},
+{
+"w": "speed",
+"start": 77.9,
+"end": 78.27,
+"conf": 0.83,
+"raw": "speed"
+},
+{
+"w": "same",
+"start": 78.27,
+"end": 78.57,
+"conf": 0.76,
+"raw": "same"
+},
+{
+"w": "direction",
+"start": 78.57,
+"end": 79.03,
+"conf": 0.83,
+"raw": "direction"
+},
+{
+"w": "toward",
+"start": 79.03,
+"end": 79.23,
+"conf": 0.82,
+"raw": "toward"
+},
+{
+"w": "the",
+"start": 79.23,
+"end": 79.37,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "skill",
+"start": 79.37,
+"end": 79.63,
+"conf": 0.81,
+"raw": "skill"
+},
+{
+"w": "stream",
+"start": 79.63,
+"end": 79.87,
+"conf": 0.8,
+"raw": "stream"
+},
+{
+"w": "tower",
+"start": 79.87,
+"end": 80.2,
+"conf": 0.82,
+"raw": "tower"
+},
+{
+"w": "downtown",
+"start": 80.2,
+"end": 80.8,
+"conf": 0.84,
+"raw": "downtown"
+},
+{
+"w": "the",
+"start": 80.8,
+"end": 80.93,
+"conf": 0.71,
+"raw": "the"
+},
+{
+"w": "upgrade",
+"start": 80.93,
+"end": 81.3,
+"conf": 0.8,
+"raw": "upgrade"
+},
+{
+"w": "wasn't",
+"start": 81.3,
+"end": 81.6,
+"conf": 0.84,
+"raw": "wasn't"
+},
+{
+"w": "an",
+"start": 81.6,
+"end": 81.73,
+"conf": 0.66,
+"raw": "an"
+},
+{
+"w": "upgrade",
+"start": 81.73,
+"end": 82.17,
+"conf": 0.82,
+"raw": "upgrade"
+},
+{
+"w": "was",
+"start": 82.3,
+"end": 82.4,
+"conf": 0.75,
+"raw": "was"
+},
+{
+"w": "leash",
+"start": 82.5,
+"end": 82.9,
+"conf": 0.78,
+"raw": "leash"
+},
+{
+"w": "every",
+"start": 82.9,
+"end": 83.23,
+"conf": 0.79,
+"raw": "every"
+},
+{
+"w": "person",
+"start": 83.23,
+"end": 83.57,
+"conf": 0.86,
+"raw": "person"
+},
+{
+"w": "with",
+"start": 83.57,
+"end": 83.67,
+"conf": 0.77,
+"raw": "skwith,"
+},
+{
+"w": "Spark",
+"start": 83.67,
+"end": 83.73,
+"conf": 0.62,
+"raw": "Spark"
+},
+{
+"w": "now",
+"start": 84.07,
+"end": 84.27,
+"conf": 0.66,
+"raw": "now"
+},
+{
+"w": "SKILLSTREAM HQ",
+"start": 84.27,
+"end": 84.67,
+"conf": 0.87,
+"raw": "SKILLSTREAM HQ"
+},
+{
+"w": "to",
+"start": 84.67,
+"end": 84.87,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "Dorian",
+"start": 84.87,
+"end": 85.27,
+"conf": 0.84,
+"raw": "Dorian"
+},
+{
+"w": "Kade",
+"start": 85.27,
+"end": 85.63,
+"conf": 0.76,
+"raw": "Kade"
+},
+{
+"w": "and",
+"start": 85.63,
+"end": 85.77,
+"conf": 0.62,
+"raw": "and"
+},
+{
+"w": "was",
+"start": 85.83,
+"end": 85.97,
+"conf": 0.67,
+"raw": "was"
+},
+{
+"w": "the",
+"start": 85.97,
+"end": 86.1,
+"conf": 0.59,
+"raw": "the"
+},
+{
+"w": "only",
+"start": 86.1,
+"end": 86.4,
+"conf": 0.79,
+"raw": "only"
+},
+{
+"w": "person",
+"start": 86.4,
+"end": 86.67,
+"conf": 0.84,
+"raw": "person"
+},
+{
+"w": "on",
+"start": 86.67,
+"end": 86.77,
+"conf": 0.66,
+"raw": "on"
+},
+{
+"w": "my",
+"start": 86.77,
+"end": 86.97,
+"conf": 0.67,
+"raw": "my"
+},
+{
+"w": "street",
+"start": 86.97,
+"end": 87.2,
+"conf": 0.84,
+"raw": "street"
+},
+{
+"w": "without",
+"start": 87.2,
+"end": 87.5,
+"conf": 0.87,
+"raw": "without"
+},
+{
+"w": "one",
+"start": 87.5,
+"end": 87.67,
+"conf": 0.74,
+"raw": "one"
+},
+{
+"w": "followed",
+"start": 87.83,
+"end": 88.13,
+"conf": 0.83,
+"raw": "followed"
+},
+{
+"w": "the",
+"start": 88.13,
+"end": 88.2,
+"conf": 0.72,
+"raw": "the"
+},
+{
+"w": "crowd",
+"start": 88.2,
+"end": 88.5,
+"conf": 0.83,
+"raw": "crowd"
+},
+{
+"w": "downtown",
+"start": 88.5,
+"end": 89.1,
+"conf": 0.87,
+"raw": "downtown"
+},
+{
+"w": "millions",
+"start": 89.1,
+"end": 89.47,
+"conf": 0.88,
+"raw": "millions"
+},
+{
+"w": "of",
+"start": 89.47,
+"end": 89.6,
+"conf": 0.63,
+"raw": "of"
+},
+{
+"w": "people",
+"start": 89.6,
+"end": 89.97,
+"conf": 0.85,
+"raw": "people"
+},
+{
+"w": "marching",
+"start": 89.97,
+"end": 90.3,
+"conf": 0.65,
+"raw": "marching"
+},
+{
+"w": "like",
+"start": 90.3,
+"end": 90.53,
+"conf": 0.79,
+"raw": "like"
+},
+{
+"w": "robots",
+"start": 90.53,
+"end": 91.13,
+"conf": 0.82,
+"raw": "robots"
+},
+{
+"w": "all",
+"start": 91.13,
+"end": 91.4,
+"conf": 0.74,
+"raw": "all"
+},
+{
+"w": "lining",
+"start": 91.4,
+"end": 91.67,
+"conf": 0.75,
+"raw": "lining"
+},
+{
+"w": "up",
+"start": 91.67,
+"end": 91.87,
+"conf": 0.66,
+"raw": "up"
+},
+{
+"w": "around",
+"start": 91.87,
+"end": 92.07,
+"conf": 0.85,
+"raw": "around"
+},
+{
+"w": "the",
+"start": 92.07,
+"end": 92.13,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "tower",
+"start": 92.13,
+"end": 92.47,
+"conf": 0.81,
+"raw": "tower"
+},
+{
+"w": "on",
+"start": 92.47,
+"end": 92.6,
+"conf": 0.59,
+"raw": "on"
+},
+{
+"w": "the",
+"start": 92.6,
+"end": 92.67,
+"conf": 0.66,
+"raw": "the"
+},
+{
+"w": "giant",
+"start": 92.67,
+"end": 93.0,
+"conf": 0.83,
+"raw": "giant"
+},
+{
+"w": "screen",
+"start": 93.0,
+"end": 93.4,
+"conf": 0.82,
+"raw": "screen"
+},
+{
+"w": "Cade",
+"start": 93.4,
+"end": 93.7,
+"conf": 0.79,
+"raw": "Cade"
+},
+{
+"w": "was",
+"start": 93.7,
+"end": 93.9,
+"conf": 0.65,
+"raw": "was"
+},
+{
+"w": "smiling",
+"start": 93.9,
+"end": 94.37,
+"conf": 0.78,
+"raw": "smiling"
+},
+{
+"w": "from",
+"start": 94.37,
+"end": 94.5,
+"conf": 0.74,
+"raw": "from"
+},
+{
+"w": "today",
+"start": 94.5,
+"end": 94.77,
+"conf": 0.71,
+"raw": "today"
+},
+{
+"w": "on",
+"start": 94.77,
+"end": 95.1,
+"conf": 0.64,
+"raw": "on"
+},
+{
+"w": "nobody",
+"start": 95.1,
+"end": 95.5,
+"conf": 0.86,
+"raw": "nobody"
+},
+{
+"w": "in",
+"start": 95.5,
+"end": 95.6,
+"conf": 0.67,
+"raw": "in"
+},
+{
+"w": "the",
+"start": 95.6,
+"end": 95.7,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "world",
+"start": 95.7,
+"end": 95.97,
+"conf": 0.74,
+"raw": "world"
+},
+{
+"w": "will",
+"start": 95.97,
+"end": 96.13,
+"conf": 0.71,
+"raw": "will"
+},
+{
+"w": "ever",
+"start": 96.13,
+"end": 96.4,
+"conf": 0.8,
+"raw": "ever"
+},
+{
+"w": "have",
+"start": 96.4,
+"end": 96.53,
+"conf": 0.69,
+"raw": "have"
+},
+{
+"w": "to",
+"start": 96.53,
+"end": 96.63,
+"conf": 0.51,
+"raw": "to"
+},
+{
+"w": "think",
+"start": 96.63,
+"end": 96.83,
+"conf": 0.71,
+"raw": "think"
+},
+{
+"w": "for",
+"start": 96.83,
+"end": 96.93,
+"conf": 0.64,
+"raw": "for"
+},
+{
+"w": "themselves",
+"start": 96.93,
+"end": 97.4,
+"conf": 0.84,
+"raw": "themselves"
+},
+{
+"w": "again",
+"start": 97.4,
+"end": 97.8,
+"conf": 0.74,
+"raw": "again"
+},
+{
+"w": "snuck",
+"start": 97.97,
+"end": 98.17,
+"conf": 0.77,
+"raw": "snuck"
+},
+{
+"w": "around",
+"start": 98.17,
+"end": 98.37,
+"conf": 0.8,
+"raw": "around"
+},
+{
+"w": "back",
+"start": 98.37,
+"end": 98.57,
+"conf": 0.78,
+"raw": "back"
+},
+{
+"w": "of",
+"start": 98.57,
+"end": 98.63,
+"conf": 0.66,
+"raw": "of"
+},
+{
+"w": "the",
+"start": 98.63,
+"end": 98.77,
+"conf": 0.7,
+"raw": "the"
+},
+{
+"w": "tower",
+"start": 98.77,
+"end": 99.07,
+"conf": 0.79,
+"raw": "tower"
+},
+{
+"w": "the",
+"start": 99.07,
+"end": 99.17,
+"conf": 0.7,
+"raw": "the"
+},
+{
+"w": "had",
+"start": 99.4,
+"end": 99.47,
+"conf": 0.75,
+"raw": "had"
+},
+{
+"w": "digital",
+"start": 99.6,
+"end": 99.9,
+"conf": 0.81,
+"raw": "digital"
+},
+{
+"w": "lock",
+"start": 99.9,
+"end": 100.23,
+"conf": 0.72,
+"raw": "lock"
+},
+{
+"w": "hack",
+"start": 100.43,
+"end": 100.73,
+"conf": 0.8,
+"raw": "hack"
+},
+{
+"w": "but",
+"start": 100.87,
+"end": 100.97,
+"conf": 0.72,
+"raw": "but"
+},
+{
+"w": "the",
+"start": 100.97,
+"end": 101.07,
+"conf": 0.72,
+"raw": "the"
+},
+{
+"w": "old",
+"start": 101.07,
+"end": 101.27,
+"conf": 0.7,
+"raw": "old"
+},
+{
+"w": "service",
+"start": 101.27,
+"end": 101.6,
+"conf": 0.86,
+"raw": "service"
+},
+{
+"w": "next",
+"start": 101.77,
+"end": 102.0,
+"conf": 0.8,
+"raw": "next"
+},
+{
+"w": "had",
+"start": 102.2,
+"end": 102.3,
+"conf": 0.75,
+"raw": "had"
+},
+{
+"w": "regular",
+"start": 102.37,
+"end": 102.7,
+"conf": 0.81,
+"raw": "regular"
+},
+{
+"w": "one",
+"start": 102.7,
+"end": 102.87,
+"conf": 0.68,
+"raw": "one"
+},
+{
+"w": "my",
+"start": 102.87,
+"end": 103.0,
+"conf": 0.66,
+"raw": "my"
+},
+{
+"w": "grandpa",
+"start": 103.0,
+"end": 103.33,
+"conf": 0.82,
+"raw": "grandpa"
+},
+{
+"w": "taught",
+"start": 103.33,
+"end": 103.53,
+"conf": 0.72,
+"raw": "taught"
+},
+{
+"w": "me",
+"start": 103.53,
+"end": 103.6,
+"conf": 0.52,
+"raw": "me"
+},
+{
+"w": "how",
+"start": 103.6,
+"end": 103.67,
+"conf": 0.65,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 103.67,
+"end": 103.77,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "pick",
+"start": 103.77,
+"end": 103.97,
+"conf": 0.8,
+"raw": "pick"
+},
+{
+"w": "those",
+"start": 103.97,
+"end": 104.17,
+"conf": 0.8,
+"raw": "those"
+},
+{
+"w": "when",
+"start": 104.17,
+"end": 104.3,
+"conf": 0.8,
+"raw": "when"
+},
+{
+"w": "was",
+"start": 104.3,
+"end": 104.5,
+"conf": 0.73,
+"raw": "was"
+},
+{
+"w": "10",
+"start": 104.9,
+"end": 105.13,
+"conf": 0.67,
+"raw": "10"
+},
+{
+"w": "seconds",
+"start": 105.13,
+"end": 105.57,
+"conf": 0.85,
+"raw": "seconds"
+},
+{
+"w": "was",
+"start": 105.7,
+"end": 105.83,
+"conf": 0.73,
+"raw": "was"
+},
+{
+"w": "climbed",
+"start": 106.2,
+"end": 106.53,
+"conf": 0.79,
+"raw": "climbed"
+},
+{
+"w": "80",
+"start": 106.53,
+"end": 106.87,
+"conf": 0.67,
+"raw": "80"
+},
+{
+"w": "of",
+"start": 107.13,
+"end": 107.23,
+"conf": 0.65,
+"raw": "of"
+},
+{
+"w": "emergency",
+"start": 107.23,
+"end": 107.7,
+"conf": 0.86,
+"raw": "emergency"
+},
+{
+"w": "stairs",
+"start": 107.7,
+"end": 108.03,
+"conf": 0.75,
+"raw": "stairs"
+},
+{
+"w": "to",
+"start": 108.03,
+"end": 108.13,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "the",
+"start": 108.13,
+"end": 108.23,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "broadcast",
+"start": 108.23,
+"end": 108.67,
+"conf": 0.84,
+"raw": "broadcast"
+},
+{
+"w": "room",
+"start": 108.67,
+"end": 108.9,
+"conf": 0.79,
+"raw": "room"
+},
+{
+"w": "the",
+"start": 108.9,
+"end": 109.0,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "machine",
+"start": 109.0,
+"end": 109.37,
+"conf": 0.87,
+"raw": "machine"
+},
+{
+"w": "sending",
+"start": 109.37,
+"end": 109.67,
+"conf": 0.81,
+"raw": "sending"
+},
+{
+"w": "the",
+"start": 109.67,
+"end": 109.8,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "signal",
+"start": 109.8,
+"end": 110.07,
+"conf": 0.85,
+"raw": "signal"
+},
+{
+"w": "to",
+"start": 110.07,
+"end": 110.17,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "every",
+"start": 110.17,
+"end": 110.57,
+"conf": 0.8,
+"raw": "every"
+},
+{
+"w": "spark",
+"start": 110.57,
+"end": 110.9,
+"conf": 0.76,
+"raw": "spark"
+},
+{
+"w": "on",
+"start": 110.9,
+"end": 111.1,
+"conf": 0.65,
+"raw": "on"
+},
+{
+"w": "earth",
+"start": 111.1,
+"end": 111.47,
+"conf": 0.79,
+"raw": "earth"
+},
+{
+"w": "it",
+"start": 111.47,
+"end": 111.6,
+"conf": 0.59,
+"raw": "it"
+},
+{
+"w": "was",
+"start": 111.6,
+"end": 111.77,
+"conf": 0.75,
+"raw": "was"
+},
+{
+"w": "huge",
+"start": 111.77,
+"end": 112.33,
+"conf": 0.8,
+"raw": "huge"
+},
+{
+"w": "humming",
+"start": 112.33,
+"end": 112.7,
+"conf": 0.76,
+"raw": "humming"
+},
+{
+"w": "glowing",
+"start": 112.7,
+"end": 113.27,
+"conf": 0.83,
+"raw": "glowing"
+},
+{
+"w": "and",
+"start": 113.27,
+"end": 113.4,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "didn't",
+"start": 113.5,
+"end": 113.67,
+"conf": 0.53,
+"raw": "3.up!p"
+},
+{
+"w": "know",
+"start": 113.67,
+"end": 113.87,
+"conf": 0.8,
+"raw": "know"
+},
+{
+"w": "how",
+"start": 113.87,
+"end": 113.97,
+"conf": 0.75,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 113.97,
+"end": 114.03,
+"conf": 0.59,
+"raw": "to"
+},
+{
+"w": "code",
+"start": 114.03,
+"end": 114.47,
+"conf": 0.7,
+"raw": "code"
+},
+{
+"w": "but",
+"start": 114.47,
+"end": 114.6,
+"conf": 0.75,
+"raw": "but"
+},
+{
+"w": "had",
+"start": 114.67,
+"end": 114.8,
+"conf": 0.63,
+"raw": "had"
+},
+{
+"w": "an",
+"start": 114.8,
+"end": 114.93,
+"conf": 0.67,
+"raw": "an"
+},
+{
+"w": "engine",
+"start": 114.93,
+"end": 115.23,
+"conf": 0.79,
+"raw": "engine"
+},
+{
+"w": "big",
+"start": 115.37,
+"end": 115.77,
+"conf": 0.75,
+"raw": "big"
+},
+{
+"w": "old",
+"start": 115.77,
+"end": 115.9,
+"conf": 0.5,
+"raw": "PIO"
+},
+{
+"w": "fashioned",
+"start": 116.0,
+"end": 116.4,
+"conf": 0.87,
+"raw": "fashioned"
+},
+{
+"w": "power",
+"start": 116.4,
+"end": 116.73,
+"conf": 0.81,
+"raw": "power"
+},
+{
+"w": "generator",
+"start": 116.73,
+"end": 117.17,
+"conf": 0.88,
+"raw": "generator"
+},
+{
+"w": "keeping",
+"start": 117.17,
+"end": 117.43,
+"conf": 0.75,
+"raw": "keeping"
+},
+{
+"w": "the",
+"start": 117.43,
+"end": 117.53,
+"conf": 0.63,
+"raw": "the"
+},
+{
+"w": "whole",
+"start": 117.53,
+"end": 117.77,
+"conf": 0.83,
+"raw": "whole"
+},
+{
+"w": "thing",
+"start": 117.77,
+"end": 117.97,
+"conf": 0.83,
+"raw": "thing"
+},
+{
+"w": "running",
+"start": 117.97,
+"end": 118.3,
+"conf": 0.86,
+"raw": "running"
+},
+{
+"w": "my",
+"start": 118.3,
+"end": 118.43,
+"conf": 0.66,
+"raw": "my"
+},
+{
+"w": "taught",
+"start": 118.73,
+"end": 118.9,
+"conf": 0.76,
+"raw": "taught"
+},
+{
+"w": "me",
+"start": 118.9,
+"end": 119.03,
+"conf": 0.55,
+"raw": "me"
+},
+{
+"w": "how",
+"start": 119.03,
+"end": 119.1,
+"conf": 0.75,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 119.1,
+"end": 119.2,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "fix",
+"start": 119.2,
+"end": 119.43,
+"conf": 0.56,
+"raw": "fix"
+},
+{
+"w": "those",
+"start": 119.43,
+"end": 119.7,
+"conf": 0.83,
+"raw": "those"
+},
+{
+"w": "and",
+"start": 119.7,
+"end": 119.8,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "you",
+"start": 119.97,
+"end": 120.03,
+"conf": 0.73,
+"raw": "you"
+},
+{
+"w": "know",
+"start": 120.03,
+"end": 120.17,
+"conf": 0.8,
+"raw": "know"
+},
+{
+"w": "how",
+"start": 120.17,
+"end": 120.23,
+"conf": 0.7,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 120.23,
+"end": 120.3,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "fix",
+"start": 120.3,
+"end": 120.5,
+"conf": 0.59,
+"raw": "fix"
+},
+{
+"w": "something",
+"start": 120.5,
+"end": 120.9,
+"conf": 0.87,
+"raw": "something"
+},
+{
+"w": "you",
+"start": 120.9,
+"end": 121.17,
+"conf": 0.75,
+"raw": "you"
+},
+{
+"w": "know",
+"start": 121.17,
+"end": 121.27,
+"conf": 0.8,
+"raw": "know"
+},
+{
+"w": "how",
+"start": 121.27,
+"end": 121.4,
+"conf": 0.75,
+"raw": "how"
+},
+{
+"w": "to",
+"start": 121.4,
+"end": 121.47,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "break",
+"start": 121.47,
+"end": 121.67,
+"conf": 0.79,
+"raw": "break"
+},
+{
+"w": "pulled",
+"start": 122.03,
+"end": 122.27,
+"conf": 0.78,
+"raw": "pulled"
+},
+{
+"w": "three",
+"start": 122.27,
+"end": 122.5,
+"conf": 0.83,
+"raw": "three"
+},
+{
+"w": "wires",
+"start": 122.5,
+"end": 123.0,
+"conf": 0.83,
+"raw": "wires"
+},
+{
+"w": "twisted",
+"start": 123.0,
+"end": 123.3,
+"conf": 0.77,
+"raw": "twisted"
+},
+{
+"w": "one",
+"start": 123.3,
+"end": 123.57,
+"conf": 0.74,
+"raw": "one"
+},
+{
+"w": "valve",
+"start": 123.57,
+"end": 123.93,
+"conf": 0.83,
+"raw": "valve"
+},
+{
+"w": "and",
+"start": 123.93,
+"end": 124.17,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "jammed",
+"start": 124.17,
+"end": 124.47,
+"conf": 0.85,
+"raw": "jammed"
+},
+{
+"w": "my",
+"start": 124.47,
+"end": 124.63,
+"conf": 0.63,
+"raw": "my"
+},
+{
+"w": "belt",
+"start": 124.63,
+"end": 124.9,
+"conf": 0.8,
+"raw": "belt"
+},
+{
+"w": "into",
+"start": 124.9,
+"end": 125.07,
+"conf": 0.66,
+"raw": "into"
+},
+{
+"w": "the",
+"start": 125.07,
+"end": 125.17,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "fan",
+"start": 125.17,
+"end": 125.57,
+"conf": 0.75,
+"raw": "fan"
+},
+{
+"w": "the",
+"start": 125.57,
+"end": 125.63,
+"conf": 0.74,
+"raw": "the"
+},
+{
+"w": "generator",
+"start": 125.63,
+"end": 126.03,
+"conf": 0.87,
+"raw": "generator"
+},
+{
+"w": "coughed",
+"start": 126.03,
+"end": 126.47,
+"conf": 0.85,
+"raw": "coughed"
+},
+{
+"w": "sparked",
+"start": 126.47,
+"end": 126.97,
+"conf": 0.85,
+"raw": "sparked"
+},
+{
+"w": "and",
+"start": 126.97,
+"end": 127.17,
+"conf": 0.64,
+"raw": "and"
+},
+{
+"w": "the",
+"start": 127.63,
+"end": 127.77,
+"conf": 0.64,
+"raw": "the"
+},
+{
+"w": "broadcast",
+"start": 127.77,
+"end": 128.2,
+"conf": 0.83,
+"raw": "broadcast"
+},
+{
+"w": "room",
+"start": 128.2,
+"end": 128.37,
+"conf": 0.74,
+"raw": "room"
+},
+{
+"w": "went",
+"start": 128.37,
+"end": 128.57,
+"conf": 0.8,
+"raw": "went"
+},
+{
+"w": "dark",
+"start": 128.57,
+"end": 128.9,
+"conf": 0.8,
+"raw": "dark"
+},
+{
+"w": "and",
+"start": 128.9,
+"end": 129.07,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "80",
+"start": 129.07,
+"end": 129.3,
+"conf": 0.67,
+"raw": "80"
+},
+{
+"w": "floors",
+"start": 129.3,
+"end": 129.57,
+"conf": 0.85,
+"raw": "floors"
+},
+{
+"w": "below",
+"start": 129.57,
+"end": 129.87,
+"conf": 0.82,
+"raw": "below"
+},
+{
+"w": "me",
+"start": 129.87,
+"end": 130.07,
+"conf": 0.67,
+"raw": "me"
+},
+{
+"w": "eight",
+"start": 130.07,
+"end": 130.37,
+"conf": 0.79,
+"raw": "eight"
+},
+{
+"w": "billion",
+"start": 130.37,
+"end": 130.77,
+"conf": 0.81,
+"raw": "billion"
+},
+{
+"w": "people",
+"start": 130.77,
+"end": 131.1,
+"conf": 0.84,
+"raw": "people"
+},
+{
+"w": "blinked",
+"start": 131.1,
+"end": 131.4,
+"conf": 0.84,
+"raw": "blinked"
+},
+{
+"w": "and",
+"start": 131.4,
+"end": 131.6,
+"conf": 0.73,
+"raw": "and"
+},
+{
+"w": "woke",
+"start": 131.6,
+"end": 131.77,
+"conf": 0.8,
+"raw": "woke"
+},
+{
+"w": "up",
+"start": 131.77,
+"end": 132.0,
+"conf": 0.66,
+"raw": "up"
+},
+{
+"w": "they",
+"start": 132.0,
+"end": 132.13,
+"conf": 0.7,
+"raw": "they"
+},
+{
+"w": "were",
+"start": 132.13,
+"end": 132.2,
+"conf": 0.8,
+"raw": "were"
+},
+{
+"w": "confused",
+"start": 132.2,
+"end": 133.03,
+"conf": 0.89,
+"raw": "confused"
+},
+{
+"w": "and",
+"start": 133.03,
+"end": 133.47,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "then",
+"start": 133.47,
+"end": 133.6,
+"conf": 0.8,
+"raw": "then"
+},
+{
+"w": "they",
+"start": 133.6,
+"end": 133.73,
+"conf": 0.8,
+"raw": "they"
+},
+{
+"w": "looked",
+"start": 133.73,
+"end": 133.87,
+"conf": 0.79,
+"raw": "looked"
+},
+{
+"w": "up",
+"start": 133.87,
+"end": 134.0,
+"conf": 0.66,
+"raw": "up"
+},
+{
+"w": "at",
+"start": 134.0,
+"end": 134.07,
+"conf": 0.67,
+"raw": "at"
+},
+{
+"w": "the",
+"start": 134.07,
+"end": 134.2,
+"conf": 0.62,
+"raw": "the"
+},
+{
+"w": "tower",
+"start": 134.2,
+"end": 134.57,
+"conf": 0.78,
+"raw": "tower"
+},
+{
+"w": "at",
+"start": 134.57,
+"end": 134.7,
+"conf": 0.65,
+"raw": "at"
+},
+{
+"w": "the",
+"start": 134.7,
+"end": 134.77,
+"conf": 0.64,
+"raw": "the"
+},
+{
+"w": "man",
+"start": 134.77,
+"end": 134.97,
+"conf": 0.7,
+"raw": "man"
+},
+{
+"w": "on",
+"start": 134.97,
+"end": 135.03,
+"conf": 0.59,
+"raw": "on"
+},
+{
+"w": "the",
+"start": 135.03,
+"end": 135.2,
+"conf": 0.67,
+"raw": "the"
+},
+{
+"w": "screen",
+"start": 135.2,
+"end": 135.5,
+"conf": 0.77,
+"raw": "screen"
+},
+{
+"w": "who",
+"start": 135.5,
+"end": 135.63,
+"conf": 0.75,
+"raw": "who"
+},
+{
+"w": "tried",
+"start": 135.63,
+"end": 135.9,
+"conf": 0.77,
+"raw": "tried"
+},
+{
+"w": "to",
+"start": 135.9,
+"end": 136.0,
+"conf": 0.67,
+"raw": "to"
+},
+{
+"w": "own",
+"start": 136.0,
+"end": 136.23,
+"conf": 0.74,
+"raw": "own"
+},
+{
+"w": "them",
+"start": 136.23,
+"end": 136.47,
+"conf": 0.69,
+"raw": "them"
+},
+{
+"w": "by",
+"start": 136.47,
+"end": 136.63,
+"conf": 0.66,
+"raw": "by"
+},
+{
+"w": "sunrise",
+"start": 136.63,
+"end": 137.13,
+"conf": 0.87,
+"raw": "sunrise"
+},
+{
+"w": "Dorian",
+"start": 137.13,
+"end": 137.57,
+"conf": 0.86,
+"raw": "Dorian"
+},
+{
+"w": "Cade",
+"start": 137.57,
+"end": 137.9,
+"conf": 0.79,
+"raw": "Cade"
+},
+{
+"w": "was",
+"start": 137.9,
+"end": 138.0,
+"conf": 0.69,
+"raw": "was"
+},
+{
+"w": "in",
+"start": 138.0,
+"end": 138.13,
+"conf": 0.66,
+"raw": "in"
+},
+{
+"w": "handcuffs",
+"start": 138.13,
+"end": 138.67,
+"conf": 0.86,
+"raw": "handcuffs"
+},
+{
+"w": "and",
+"start": 138.67,
+"end": 138.8,
+"conf": 0.75,
+"raw": "and"
+},
+{
+"w": "for",
+"start": 138.8,
+"end": 138.87,
+"conf": 0.75,
+"raw": "for"
+},
+{
+"w": "the",
+"start": 138.87,
+"end": 138.97,
+"conf": 0.75,
+"raw": "the"
+},
+{
+"w": "first",
+"start": 138.97,
+"end": 139.2,
+"conf": 0.77,
+"raw": "first"
+},
+{
+"w": "time",
+"start": 139.2,
+"end": 139.43,
+"conf": 0.74,
+"raw": "time"
+},
+{
+"w": "in",
+"start": 139.43,
+"end": 139.6,
+"conf": 0.58,
+"raw": "in"
+},
+{
+"w": "50",
+"start": 139.6,
+"end": 139.87,
+"conf": 0.67,
+"raw": "50"
+},
+{
+"w": "years",
+"start": 139.87,
+"end": 140.43,
+"conf": 0.83,
+"raw": "years"
+},
+{
+"w": "skillstream",
+"start": 140.43,
+"end": 141.03,
+"conf": 0.86,
+"raw": "skillstream"
+},
+{
+"w": "stores",
+"start": 141.03,
+"end": 141.4,
+"conf": 0.82,
+"raw": "stores"
+},
+{
+"w": "were",
+"start": 141.4,
+"end": 141.6,
+"conf": 0.79,
+"raw": "were"
+},
+{
+"w": "empty",
+"start": 141.6,
+"end": 141.97,
+"conf": 0.83,
+"raw": "empty"
+},
+{
+"w": "they",
+"start": 141.97,
+"end": 142.1,
+"conf": 0.8,
+"raw": "they"
+},
+{
+"w": "tore",
+"start": 142.1,
+"end": 142.27,
+"conf": 0.74,
+"raw": "tore"
+},
+{
+"w": "down",
+"start": 142.27,
+"end": 142.53,
+"conf": 0.79,
+"raw": "down"
+},
+{
+"w": "every",
+"start": 142.53,
+"end": 142.9,
+"conf": 0.78,
+"raw": "every"
+},
+{
+"w": "billboard",
+"start": 142.9,
+"end": 143.3,
+"conf": 0.88,
+"raw": "billboard"
+},
+{
+"w": "with",
+"start": 143.3,
+"end": 143.43,
+"conf": 0.74,
+"raw": "with"
+},
+{
+"w": "Cade's",
+"start": 143.43,
+"end": 143.7,
+"conf": 0.85,
+"raw": "Cade's"
+},
+{
+"w": "face",
+"start": 143.7,
+"end": 143.93,
+"conf": 0.8,
+"raw": "face"
+},
+{
+"w": "on",
+"start": 143.93,
+"end": 144.03,
+"conf": 0.61,
+"raw": "on"
+},
+{
+"w": "except",
+"start": 144.2,
+"end": 144.53,
+"conf": 0.82,
+"raw": "except"
+},
+{
+"w": "one",
+"start": 144.53,
+"end": 144.83,
+"conf": 0.74,
+"raw": "one"
+},
+{
+"w": "somebody",
+"start": 144.83,
+"end": 145.13,
+"conf": 0.89,
+"raw": "somebody"
+},
+{
+"w": "spray",
+"start": 145.13,
+"end": 145.43,
+"conf": 0.68,
+"raw": "spray"
+},
+{
+"w": "painted",
+"start": 145.43,
+"end": 145.7,
+"conf": 0.77,
+"raw": "painted"
+},
+{
+"w": "right",
+"start": 145.7,
+"end": 145.93,
+"conf": 0.78,
+"raw": "right"
+},
+{
+"w": "over",
+"start": 145.93,
+"end": 146.07,
+"conf": 0.79,
+"raw": "over"
+},
+{
+"w": "his",
+"start": 146.07,
+"end": 146.2,
+"conf": 0.66,
+"raw": "his"
+},
+{
+"w": "slogan",
+"start": 146.2,
+"end": 146.6,
+"conf": 0.84,
+"raw": "slogan"
+},
+{
+"w": "said",
+"start": 146.73,
+"end": 147.0,
+"conf": 0.61,
+"raw": "said"
+},
+{
+"w": "why",
+"start": 147.0,
+"end": 147.27,
+"conf": 0.72,
+"raw": "why"
+},
+{
+"w": "when",
+"start": 147.83,
+"end": 148.0,
+"conf": 0.8,
+"raw": "when"
+},
+{
+"w": "you",
+"start": 148.0,
+"end": 148.07,
+"conf": 0.74,
+"raw": "you"
+},
+{
+"w": "can",
+"start": 148.07,
+"end": 148.23,
+"conf": 0.66,
+"raw": "can"
+},
+{
+"w": "learn",
+"start": 148.23,
+"end": 148.73,
+"conf": 0.81,
+"raw": "learn"
+}
+]
